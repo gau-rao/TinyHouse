@@ -9,4 +9,4 @@ const app = express_1.default();
 const port = 9000;
 app.get('/', (req, res) => res.send("hello world"));
 app.listen(port);
-console.log("[app] : http://localhost:${port}");
+console.log("[app] : http://localhost:3000");
