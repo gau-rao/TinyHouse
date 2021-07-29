@@ -24,7 +24,7 @@ require("dotenv").config();
         
 console.log("[seed] : success");
 } catch {
-   throw new Error("failed to seed database");
+   throw new Error("failed to delete database");
 
 }
 };
