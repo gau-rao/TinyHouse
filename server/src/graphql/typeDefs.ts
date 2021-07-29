@@ -8,8 +8,8 @@ type Listing {
     price : Int!
     numOfGuests : Int!
     numOfBeds : Int!
-    numOfBaths : Int!
-    rating : Int !
+    rating : Int!
+
     }
     type Query {
         listings : [Listing!]!
