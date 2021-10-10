@@ -1,3 +1,16 @@
+## Prerequisites
+
+1. Create a [Stripe account](https://stripe.com/gb) that you'll use solely for the TinyHouse platform
+2. Create a `.env` file as follows:
+
+```sh
+# Indentifies the client application which can be found in the Integration section of Settings/Connect Settings on the Stripe Dashboard
+REACT_APP_STRIPE_CLIENT_ID=ca_*****
+
+# Indentifies the account connected to Stripe which can be found in the Standard keys section of Developers/API keys
+REACT_APP_STRIPE_PUBLISHABLE_KEY=pk_test_*****
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,3 +57,13 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Learn More
+
+-   React - https://reactjs.org/
+-   Create React App - https://facebook.github.io/create-react-app/docs/getting-started
+-   GraphQL - https://graphql.org
+-   Ant Design - https://ant.design
+-   TypeScript - https://www.typescriptlang.org
+-   Apollo CLI - https://www.apollographql.com/docs/devtools/cli/
+-   React Apollo - https://www.apollographql.com/docs/react/api/react-apollo/
