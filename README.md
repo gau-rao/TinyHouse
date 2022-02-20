@@ -34,6 +34,9 @@ A Full-stack Typescript React & GraphQL application with a dedicated Google LogI
 ![Screenshot (37)](https://user-images.githubusercontent.com/55942948/154850145-befac056-abb4-4440-a260-ebf5641adf6a.png)
 
 
+## Property Listing
+![Screenshot (33)](https://user-images.githubusercontent.com/55942948/154851404-0d54437c-9213-401c-b223-86d918149773.png)
+
 
 ## Stripe Connect
 ![Screenshot (35)](https://user-images.githubusercontent.com/55942948/154850552-64b13a3f-6fed-4e43-9de4-6eaf45ada230.png)
