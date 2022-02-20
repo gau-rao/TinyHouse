@@ -22,5 +22,5 @@ A Full-stack Typescript React & GraphQL application.
 - Stripe
 
 Webapp Properties-
-![text](../screenshot(40).png)
+![text](../master/screenshot(40).png)
 
