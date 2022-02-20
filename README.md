@@ -1,5 +1,5 @@
 # Tinyhouse
-A Full-stack Typescript React & GraphQL application.
+A Full-stack Typescript React & GraphQL application with a dedicated Google LogIn in which you can Rent and List your Properties . As a  host you can see all your previous bookings and Listed Properties on Home Page . You can also connect your stripe account to tinyhouse which would transfer all bokking amount to your stripe account . You can search for Properties in many Locations and filter listings based on Price . 
 
 ## Technologies used:
 
