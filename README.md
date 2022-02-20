@@ -22,5 +22,5 @@ A Full-stack Typescript React & GraphQL application.
 - Stripe
 
 Properties-
-![Screenshot (40).png]
+![Screenshot (40).png](https://user-images.githubusercontent.com/55942948/154850008-5f3c1ac9-56ab-413b-915a-41b19e372464.png)
 
