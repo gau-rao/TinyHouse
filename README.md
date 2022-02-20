@@ -20,3 +20,7 @@ A Full-stack Typescript React & GraphQL application.
 - Google Geocoding API
 - Cloudinary
 - Stripe
+
+Webapp Properties-
+![text](../screenshot(40).png)
+
