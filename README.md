@@ -31,3 +31,7 @@ A Full-stack Typescript React & GraphQL application.
 ## Search for Location and filter Prices
 ![Screenshot (37)](https://user-images.githubusercontent.com/55942948/154850145-befac056-abb4-4440-a260-ebf5641adf6a.png)
 
+## Stripe Connect
+![Screenshot (35)](https://user-images.githubusercontent.com/55942948/154850552-64b13a3f-6fed-4e43-9de4-6eaf45ada230.png)
+
+
