@@ -21,6 +21,8 @@ A Full-stack Typescript React & GraphQL application.
 - Cloudinary
 - Stripe
 
-Properties-
+## SignIn-
 ![Screenshot (40).png](https://user-images.githubusercontent.com/55942948/154850008-5f3c1ac9-56ab-413b-915a-41b19e372464.png)
+ ## FrontPage-
+ ![Screenshot (47)](https://user-images.githubusercontent.com/55942948/154850087-cf8ec39b-5081-4da4-a3f3-765ef996d357.png)
 
