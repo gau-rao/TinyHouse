@@ -34,4 +34,8 @@ A Full-stack Typescript React & GraphQL application.
 ## Stripe Connect
 ![Screenshot (35)](https://user-images.githubusercontent.com/55942948/154850552-64b13a3f-6fed-4e43-9de4-6eaf45ada230.png)
 
+## Host Page
+![Screenshot (34)](https://user-images.githubusercontent.com/55942948/154850806-06994997-6ac4-4541-bea1-f3194e3ae724.png)
+
+
 
